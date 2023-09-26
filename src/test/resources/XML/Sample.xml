@@ -1,0 +1,32 @@
+<empDetails>
+<employee1>
+     <id>100</id>
+        <name>Mani</name>
+     <phno>9080955719</phno>
+  <address>
+       <street>AnnaStreet</street>
+          <City>AnnaSalai</City>
+       <state>TamilNadu</state>
+</address>
+<mail>
+           <personal>manikandansathya007@gmail.com</personal>
+              <official>manimaddy978@gmail.com</official>
+</mail>
+</employee1>
+<employee1>
+ <id>123</id>
+        <name>Maddy</name>
+     <phno>8675800209</phno>
+  <address>
+       <street>Arangam</street>
+          <City>Madurai</City>
+       <state>TamilNadu</state>
+</address>
+<mail>
+           <personal>mani@gmail.com</personal>
+              <official>manikandan978437@gmail.com</official>
+</mail>
+</employee1>
+
+
+</empDetails>

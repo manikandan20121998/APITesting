@@ -1,0 +1,30 @@
+{
+	"employee": [
+		{
+			"efirstname": "Jhon",
+			"elastname": "peter"
+		},
+		{
+			"efirstname": "mani",
+			"elastname": "kumar"
+		},
+		{
+			"efirstname": "maari",
+			"elastname": "selvam"
+		}
+	],
+	"Manager": [
+		{
+			"efirstname": "Jhon",
+			"elastname": 6765
+		},
+		{
+			"efirstname": "mani",
+			"elastname": 564655
+		},
+		{
+			"efirstname": "maari",
+			"elastname": 565758
+		}
+	]
+}

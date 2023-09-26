@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empDetails>
+	<employee1>
+		<id>423</id>
+		<name>vinoth</name>
+		<phno>6626267271</phno>
+		<address>
+			<street>Mariyamman kovilStreet</street>
+			<city>Madurai</city>
+			<state>TamilNadu</state>
+		</address>
+		<mail>
+			<personal>vivonivetha@gmail.com</personal>
+			<official>vivoth@gmail.com</official>
+		</mail>
+	</employee1>
+</empDetails>
